@@ -19,6 +19,13 @@ I'm looking for a **six-month end-of-studies / PFE internship**, preferably star
 - [Pivot](https://github.com/MedSlimane/Pivot): monitor rotation and display arrangement from the macOS menu bar.
 - [CaffeinateBar](https://github.com/MedSlimane/CaffeinateBar): a native menu bar controller for macOS `caffeinate` sessions.
 
+## Recent experience
+
+**Full Stack Mobile Developer Intern · MEDCOM / Zennyt**  
+Tunis · 8 June–8 October 2026
+
+Collaborated on Flutter cognitive games and mobile, web and tablet interfaces. My work included game interactions, tutorials, raw measurement payloads, result presentation and integration with the Spring Boot backend alongside the team.
+
 ## Tools I work with
 
 **Web and backend:** TypeScript, React, Next.js, Node.js, Java / Spring Boot, Go, Python, Convex and Cloudflare Workers.  
